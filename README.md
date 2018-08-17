@@ -26,10 +26,6 @@ ChatKit is a library designed to simplify the development of UI for such a trivi
 ### Who we are
 Need iOS and Android apps, MVP development or prototyping? Contact us via info@stfalcon.com. We develop software since 2009, and we're known experts in this field. Check out our [portfolio](https://stfalcon.com/en/portfolio) and see more libraries from [stfalcon-studio](https://stfalcon-studio.github.io/).
 
-## Demo Application
-
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=com.stfalcon.chatkit.sample)
-
 ### How to use
 
 To implement all of the features above you can use the following components:
@@ -88,8 +84,6 @@ Check out the [sample project](/sample/src/main) to try it yourself! :wink:
 
 We were inspired by [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) library for iOS. In our plans to improve functionality to give Android developers wide opportunities to create fast and good-looking UI for chats in their applications.
 
-Please, contact us via github@stfalcon.com if you are using this library, just to let us know :)
-Thank you!
 
 ### License
 
@@ -100,7 +94,7 @@ Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-https://github.com/stfalcon-studio/ChatKit/blob/master/LICENSE
+https://github.com/rsavage2/AndroidMessagesUI/blob/master/LICENSE
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
